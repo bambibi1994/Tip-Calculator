@@ -1,0 +1,25 @@
+.pageMargin {
+    margin: 3px;
+}
+
+.backgroundBlue {
+    background-color: rgb(85, 85, 228);
+}
+
+.backgroundAqua {
+    background-color: aqua;
+}
+
+.fontLarge {
+    font-size: large;
+}
+
+.checkbox {
+    background-color: black;
+    border: 20px;
+}
+
+.boldFont {
+    font-weight: bold;
+    font-size:15px;
+}
